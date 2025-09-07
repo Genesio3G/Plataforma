@@ -1,9 +1,5 @@
 
 # Documentação API
-### 👤 Informações Pessoais
-
-- **Author**: Genésio Gonçalves Gabriel  
-- **Data de nascimento**: 01 de fevereiro de 1998
 
 **Objectivo**: Projeto base em Laravel 11+ utilizando PHP 8.3 e banco de dados Mysql. Estruturado para autenticação via Sanctum, sessões seguras e integração futura com regras de negócio específicas.
 
